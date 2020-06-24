@@ -1,0 +1,5 @@
+# ignore the  data folder as it is large in size. 
+data/
+
+# ignore the document folder as it is large in size
+documents/
