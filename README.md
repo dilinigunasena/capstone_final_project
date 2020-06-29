@@ -8,7 +8,8 @@ Udacity Machine Learning Engineer Nano Degree Program
 ### data - acquired and processed data files in .csv format
 * home_and_kitchen.csv - main data file used in the project. downloaded via the link below. 
                                - https://nijianmo.github.io/amazon/index.html (ratings only data set for home and kitchen)
-                               - contains 21,928,568 ratings for home and kitchen related items
+                               - contains 21,928,568 ratings for home and kitchen related items 
+* public link for downloaded data set   - https://raw-data.s3.ap-south-1.amazonaws.com/home_and_kitchen.csv
 
 * sample_data.csv - contains 100 records obtained from the main data file
 
