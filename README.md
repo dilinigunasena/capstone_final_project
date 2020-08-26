@@ -15,12 +15,13 @@ Udacity Machine Learning Engineer Nano Degree Program
 
 ### documents - all the project documents
 * proposal.pdf - project proposal of the capstone project
-                       - udacity review link - https://review.udacity.com/#!/rubrics/2516/view
+                       - udacity review link - https://review.udacity.com/#!/reviews/2411744
 
 * report.pdf -   project report of the capstone project
 
 ### notebooks - all the jupyter notebooks developed and used for the project
 * simple_data_processing_notebook.ipynb - used for generate sample data file
+* benchmark_notebook.ipynb - used for build the benchmark model and evaluations
 
 ### resources - any other useful resources for the project 
 * img/ - contains images generated and used in documents. 
